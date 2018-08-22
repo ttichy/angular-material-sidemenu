@@ -41,10 +41,7 @@
         "properties": "always"
       }
     ],
-    "comma-dangle": [
-      1,
-      "never"
-    ],
+    "comma-dangle": [1, "never"],
     "comma-spacing": [
       1,
       {
@@ -52,26 +49,14 @@
         "after": true
       }
     ],
-    "comma-style": [
-      2,
-      "last"
-    ],
-    "consistent-this": [
-      2,
-      "self"
-    ],
+    "comma-style": [2, "last"],
+    "consistent-this": [2, "self"],
     "constructor-super": 2,
     "curly": 2,
     "default-case": 2,
-    "dot-location": [
-      2,
-      "property"
-    ],
+    "dot-location": [2, "property"],
     "eol-last": 2,
-    "eqeqeq": [
-      2,
-      "smart"
-    ],
+    "eqeqeq": [2, "smart"],
     "indent": [
       2,
       2,
@@ -86,20 +71,11 @@
         "afterColon": true
       }
     ],
-    "linebreak-style": [
-      1,
-      "unix"
-    ],
-    "max-nested-callbacks": [
-      1,
-      3
-    ],
+    "linebreak-style": [1, "unix"],
+    "max-nested-callbacks": [1, 3],
     "new-cap": 1,
     "new-parens": 1,
-    "newline-after-var": [
-      2,
-      "always"
-    ],
+    "newline-after-var": [2, "always"],
     "no-array-constructor": 2,
     "no-class-assign": 2,
     "no-cond-assign": 2,
@@ -157,19 +133,10 @@
     "no-unused-vars": 1,
     "no-use-before-define": 1,
     "no-var": 2,
-    "one-var": [
-      2,
-      "never"
-    ],
-    "quotes": [
-      2,
-      "single"
-    ],
+    "one-var": [2, "never"],
+    "quotes": [2, "single"],
     "radix": 2,
-    "semi": [
-      2,
-      "always"
-    ],
+    "semi": [2, "always"],
     "semi-spacing": [
       1,
       {
@@ -179,10 +146,7 @@
     ],
     "space-after-keywords": 2,
     "space-before-blocks": 2,
-    "space-before-function-paren": [
-      2,
-      "never"
-    ],
+    "space-before-function-paren": [2, "never"],
     "space-before-keywords": 2,
     "space-infix-ops": 2,
     "space-return-throw-case": 2,
@@ -190,9 +154,6 @@
     "strict": 0,
     "use-isnan": 2,
     "wrap-regex": 2,
-    "yoda": [
-      2,
-      "never"
-    ]
+    "yoda": [2, "never"]
   }
 }
