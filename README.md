@@ -1,5 +1,10 @@
 # Angular Material Sidemenu
 
+## Pre-Introduction
+
+This package is a slightly simplified version to run on a legacy web application.
+Installation steps below are outdated now.
+
 ## Introduction
 
 This is a package to create navigation menus using Angular Material. This follows all the design guidelines provided by Google Material spec.
