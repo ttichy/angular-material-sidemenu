@@ -9,6 +9,9 @@
     "type": "git",
     "url": "https://gitlab.intwineconnect.com/cloud-services/angular-material-sidemenu"
   },
+  "publishConfig": {
+    "registry": "https://gitlab.intwineconnect.com/api/v4/projects/192/packages/npm"
+  },
   "authors": [
     "Xandor Xicay <marcosvmmoura@gmail.com>",
     "Marcos Moura <marcosvmmoura@gmail.com>"
