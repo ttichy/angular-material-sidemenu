@@ -19,7 +19,7 @@ export default {
   demoFiles,
   gulpScripts: [joinPath(gulpFolder, "**/*.js"), "gulpfile.babel.js"],
   srcScripts: [joinPath(srcFolder, "**/*.js"), "index.js"],
-  srcStylesheets: joinPath(srcFolder, "**/*.scss"),
+  srcStylesheets: joinPath(srcFolder, "**/*.css"),
   mainFile,
   mainScript,
   mainStylesheet
